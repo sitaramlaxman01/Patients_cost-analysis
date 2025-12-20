@@ -1,0 +1,18 @@
+*Tools & Libraries Used:
+1.Python
+2.Pandas
+3.NumPy
+4.Matplotlib
+
+*Key Tasks Performed
+1.Loading and exploring the dataset
+2.Creating new columns (e.g., step count conditions, sleep quality flags)
+3.Grouping data to analyze patterns
+4.Visualizing results using bar charts
+5.Interpreting insights from the data
+
+*The main objective of this assignment is to:
+1.Practice data manipulation with Pandas
+2.Understand groupby operations
+3.Visualize data for better decision-making
+4.Gain hands-on experience with real datasets
